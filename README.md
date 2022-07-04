@@ -6,6 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="TH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TH-lua" height="30" width="40" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/lua/lua.png">
   <img align="center" alt="TH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="TH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TH-c++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg">
