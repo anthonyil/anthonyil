@@ -1,4 +1,4 @@
-## Oiii eu sou Anthony Luís, atualmente programando para Future Infinity FIVEM (GTA 5)!
+## Olá, sou Anthony Luís, atualmente programando para Future Infinity FIVEM (GTA 5)!
 <div align="center">
   <a href="https://github.com/anthonyil">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonyil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
